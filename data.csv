@@ -1,4 +1,4 @@
-BOP_observation,inflation_observation,interest_rate_observation,GDP_growth_observation
+bop,inflation,interest_rate,gdp_growth
 -2500,13.80%,7.10%,-0.5
 -2500,13.80%,7,-0.5
 -2500,12.80%,6.9,-0.5
