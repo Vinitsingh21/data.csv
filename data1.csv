@@ -1,4 +1,4 @@
-dates,BOP,interest_rate,inflation_rate,GDP_growth
+dates,BOP,interest_rate,inflation,GDP_growth
 Jan-91,-2564,13.80%,7.10%,-0.5
 Feb-91,-2564,13.80%,7,-0.5
 Mar-91,-2564,12.80%,6.9,-0.5
